@@ -34,7 +34,7 @@ Currently fokus di <b>PHP, JavaScript, dan Laravel</b> 🚀
 ## 🙋‍♂️ About Me
 
 - 🌱 Selalu belajar teknologi dan tools baru setiap minggu.
-- ⚡ Fun fact: Saya suka banget eksplorasi hal random di dunia digital & suka kopi ☕.
+- ⚡ Fun fact: Saya suka banget eksplorasi hal random di dunia digital & suka coklat.
 - 📚 Paling betah ngulik backend dan database, tapi juga open untuk belajar front-end.
 
 ---
